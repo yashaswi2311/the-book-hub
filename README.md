@@ -6,7 +6,7 @@
 
 The Goal of this project is to create a web app that helps the user find similar books of based on their preference with the help of search as well as recommendation algorithms. The website is also integrated with goodreads.com that provides the users with the book description, rating as well as user reviews. Users will have a ability to select their recommended book and buy it from Amazon Kindle
 
-## ## Dataset
+## Dataset
 
 The dataset used is goodreads-10k dataset that contains 6 million ratings for ten thousand most popular books (https://github.com/zygmuntz/goodbooks-10k).
 
